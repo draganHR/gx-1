@@ -10,7 +10,7 @@ This effect reduces the noise and hum picked up by guitar pickups. Since it supp
 | --- | --- | --- |
 | THRESHOLD | 0–100 | Adjust this parameter as appropriate for the volume of the noise. If the noise level is high, a higher setting is appropriate. Adjust the value so that the decay of the guitar sound sounds natural.   * High settings for the threshold parameter may result in there being no sound when you play with your guitar volume turned down. |
 | RELEASE | 0–100 | Adjusts the time from when the noise suppressor begins to function until the noise level reaches “0”. |
-| DETECT | This controls the noise suppressor based on the volume level for the point specified in Detect. | |
-| INPUT | Input volume from input jack.   * Ordinarily, DETECT should be set to “INPUT”. |
-| NS INPUT | Noise suppressor input volume.   * When connected as illustrated below, and you want to prevent a spatial-type effects sound (such as a delay sound) from being eradicated by the NS, you should set DETECT to “NS INPUT”.     Spatial-type effect |
+| DETECT | This controls the noise suppressor based on the volume level for the point specified in Detect. |  |
+|  | INPUT | Input volume from input jack.   * Ordinarily, DETECT should be set to “INPUT”. |
+|  | NS INPUT | Noise suppressor input volume.   * When connected as illustrated below, and you want to prevent a spatial-type effects sound (such as a delay sound) from being eradicated by the NS, you should set DETECT to “NS INPUT”.     Spatial-type effect |
 | ON/OFF | OFF, ON | Turns this effect on/off. |

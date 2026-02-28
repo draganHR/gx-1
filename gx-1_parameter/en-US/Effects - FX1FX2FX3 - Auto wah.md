@@ -9,10 +9,10 @@ This effect changes the filtering over a periodic cycle, producing an automatic 
 | Parameter | Value | Explanation |
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
-| FILTER | Select the wah mode. | |
-| LPF | Low pass filter. Passes only the low-frequency region. |
-| BPF | Band pass filter. Passes only the specified frequency region. |
-| HPF | High pass filter. Passes only the high-frequency region. |
+| FILTER | Select the wah mode. |  |
+|  | LPF | Low pass filter. Passes only the low-frequency region. |
+|  | BPF | Band pass filter. Passes only the specified frequency region. |
+|  | HPF | High pass filter. Passes only the high-frequency region. |
 | RATE | 0–100 ms, BPM ŀ–Ō | Adjusts the cycle or rate of the auto wah.   * When set to BPM, the value of each parameter will be set according to the value of the “MASTER BPM” specified for each memory. This makes it easier to achieve effect sound settings that match the tempo of the song. * If, due to the tempo, the time is longer than the range of allowable settings, it is then synchronized to a period either 1/2 or 1/4 of that time. * ŀ is a double whole note, which is twice as long as a whole note. |
 | DEPTH | 0–100 | Adjusts the depth of the auto wah. |
 | LEVEL | 0–100 | Adjusts the volume. |

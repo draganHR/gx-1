@@ -10,8 +10,8 @@ This processor allows you to change the sound produced by the pickup on an acous
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
 | TYPE | NATURAL | A natural and uncolored sound. |
-| WIDE | A full sound with emphasized body resonance |
-| BRIGHT | A brilliant sound extending to the high range |
+|  | WIDE | A full sound with emphasized body resonance |
+|  | BRIGHT | A brilliant sound extending to the high range |
 | RESO | 0–100 | Use this knob to adjust the balance between the body resonance effect of the acoustic guitar and the direct sound of the pickup. |
 | TONE | -50–+50 | This adjusts the tone. |
 | LEVEL | 0–100 | Adjusts the volume. |

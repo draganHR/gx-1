@@ -11,14 +11,15 @@ You can select the same effect for FX1, FX2, and FX3\*1.
 | Parameter | Value | Explanation |
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
-| FX TYPE | Refer to “FX1/FX2/FX3 FX TYPE”. | |
+| FX TYPE | Refer to “FX1/FX2/FX3 FX TYPE”. |  |
 
 ## FX1/FX2/FX3 FX TYPE
 
 This is a list of the effects that can be selected for FX1/FX2/FX3.
 
-| Effect name | | Explanation |
+|  |  |  |
 | --- | --- | --- |
+| Effect name |  | Explanation |
 | COMPRESSOR | Compressor | This is an effect that produces a long sustain by evening out the volume level of the input signal. |
 | LIMITER | Limiter | Attenuates loud input levels to prevent distortion. |
 | ENHANCER | Enhancer | This emphasizes the attack portion of the sound according to the changes in input level, adding more definition to the input audio. |

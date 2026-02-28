@@ -10,8 +10,8 @@ Attenuates loud input levels to prevent distortion.
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
 | TYPE | BOSS | This selects a stereo limiter. |
-| RACK 160D | This models a dbx 160X. |
-| VTG RACK U | This models a UREI 1178. |
+|  | RACK 160D | This models a dbx 160X. |
+|  | VTG RACK U | This models a UREI 1178. |
 | THRESHOLD | 0–100 | Adjust this as appropriate for the guitar input signal. When the input signal level exceeds this threshold level, limiting will be applied. |
 | LEVEL | 0–100 | Adjusts the volume. |
 | RATIO | 1:1–INF:1 | Selects the compression ratio applied with signals that exceed the threshold level. |

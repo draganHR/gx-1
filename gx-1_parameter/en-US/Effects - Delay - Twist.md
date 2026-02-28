@@ -10,7 +10,7 @@ Produces an aggressive sense of rotation. Using this in conjunction with distort
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
 | MODE | RISEÓFALL | Rotation stops when you switch TRIGGER from ON to OFF. |
-| RISEÓFADE | When you switch TRIGGER from ON to OFF, fade-out occurs while continuing the rotation. |
+|  | RISEÓFADE | When you switch TRIGGER from ON to OFF, fade-out occurs while continuing the rotation. |
 | TRIGGER | OFF, ON | The TWIST effect is applied when you turn this ON. |
 | LEVEL | 0–100 | Adjusts the volume of the effect sound. |
 | RISE TIME | 0–100 | This parameter adjusts the amount of time it is to take for the effect to transition to the maximum. |

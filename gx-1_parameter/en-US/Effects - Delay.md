@@ -9,18 +9,18 @@ This produces a variety of delay sounds ranging from simple effects to richly id
 | Parameter | Value | Explanation |
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
-| TYPE | Selects the type of wah. | |
-| STANDARD | Delays the sound to create an echo-like effect. |
-| MODULATE | This delay adds a pleasant wavering effect to the sound. |
-| PAN | This delay is specifically for stereo output.  This allows you to obtain the tap delay effect that divides the delay time, then deliver them to L and R channels. |
-| REVERSE | Produces a reverse playback effect. |
-| ANALOG | Gives a mild analog delay sound. |
-| ANLG MOD | An analog delay to which a pleasant modulation is added. |
-| SPACE ECHO | Models the Roland RE-201. |
-| SHIMMER | Delay with pitch-shifted sound mixed in. |
-| WARP | Produces a dream-like sound. |
-| TWIST | Produces an aggressive sense of rotation. Using this in conjunction with distortion will produce an even wilder sense of rotation. |
-| GLITCH | Creates a machine gun-like delay effect. |
+| TYPE | Selects the type of wah. |  |
+|  | STANDARD | Delays the sound to create an echo-like effect. |
+|  | MODULATE | This delay adds a pleasant wavering effect to the sound. |
+|  | PAN | This delay is specifically for stereo output.  This allows you to obtain the tap delay effect that divides the delay time, then deliver them to L and R channels. |
+|  | REVERSE | Produces a reverse playback effect. |
+|  | ANALOG | Gives a mild analog delay sound. |
+|  | ANLG MOD | An analog delay to which a pleasant modulation is added. |
+|  | SPACE ECHO | Models the Roland RE-201. |
+|  | SHIMMER | Delay with pitch-shifted sound mixed in. |
+|  | WARP | Produces a dream-like sound. |
+|  | TWIST | Produces an aggressive sense of rotation. Using this in conjunction with distortion will produce an even wilder sense of rotation. |
+|  | GLITCH | Creates a machine gun-like delay effect. |
 
 ## Additional information
 

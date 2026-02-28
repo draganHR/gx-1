@@ -11,8 +11,8 @@ This adjusts the tone. You can adjust the sound character in six bands.
 | ON/OFF | OFF, ON | Turns this effect on/off. |
 | LEVEL | -20dB–+20dB | Adjusts the overall volume level of the equalizer. |
 | 125 Hz | -20dB–+20dB | Adjust the volume of each frequency band. |
-| 250 Hz |
-| 500 Hz |
-| 1 kHz |
-| 2 kHz |
-| 4 kHz |
+| 250 Hz |  |  |
+| 500 Hz |  |  |
+| 1 kHz |  |  |
+| 2 kHz |  |  |
+| 4 kHz |  |  |

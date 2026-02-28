@@ -9,9 +9,9 @@ This alters the guitar audio signal to give it a human-like vocalized sound.
 | Parameter | Value | Explanation |
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
-| MODE | This sets the mode for switching the vowels. | |
-| PICKING | Switches from VOWEL1 to VOWEL2 according to your picking. The RATE adjusts the time it takes to switch the vowels. |
-| AUTO | Adjusts the RATE and DEPTH used for switching between the two vowels (VOWEL1 and VOWEL2). |
+| MODE | This sets the mode for switching the vowels. |  |
+|  | PICKING | Switches from VOWEL1 to VOWEL2 according to your picking. The RATE adjusts the time it takes to switch the vowels. |
+|  | AUTO | Adjusts the RATE and DEPTH used for switching between the two vowels (VOWEL1 and VOWEL2). |
 | VOWEL1 | a, e, i, o, u | Selects the first vowel. |
 | VOWEL2 | a, e, i, o, u | Selects the second vowel. |
 | SENS \*1 | 0–100 | Adjusts the sensitivity of the humanizer. When it is set to a lower value, no effect of the humanizer is obtained with weaker picking, while stronger picking produces the effect.  When it is set to a higher value, the effect of the humanizer can be obtained whether the picking is weak or strong. |

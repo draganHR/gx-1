@@ -10,15 +10,15 @@ This effect adds reverberation to the sound.
 | --- | --- | --- |
 | ON/OFF | OFF, ON | Turns this effect on/off. |
 | TYPE | HALL S | Simulates the reverberation in a concert hall. Provides clear and spacious reverberations. |
-| HALL M | Simulates the reverberation in a concert hall. Provides mild reverberations. |
-| PLATE | Simulates plate reverberation (a reverb unit that uses the vibration of a metallic plate). Provides a metallic sound with a distinct upper range. |
-| ROOM S | Simulates the reverberation in a small room. Provides warm reverberations. |
-| ROOM L | Simulates the reverberation of a room larger than ROOM S. |
-| AMBIENCE | Simulates an ambience mic (off-mic, placed at a distance from the sound source) used in recording and other applications.  Rather than emphasizing the reverberation, this reverb is used to produce a sense of openness and depth. |
-| SPRING | This simulates the sound of a guitar amp’s built-in spring reverb. |
-| SHIMMER | Simulates reverberation with a distinctively sparkling high-frequency range. |
-| SUB DELAY | This is a delay with a maximum delay time of 2,000 ms. This effect is a useful way of adding depth to the sound. |
-| TERA ECHO | This effect uses MDP technology to create a unique ambience and a spaciousness that changes according to your picking dynamics. |
+|  | HALL M | Simulates the reverberation in a concert hall. Provides mild reverberations. |
+|  | PLATE | Simulates plate reverberation (a reverb unit that uses the vibration of a metallic plate). Provides a metallic sound with a distinct upper range. |
+|  | ROOM S | Simulates the reverberation in a small room. Provides warm reverberations. |
+|  | ROOM L | Simulates the reverberation of a room larger than ROOM S. |
+|  | AMBIENCE | Simulates an ambience mic (off-mic, placed at a distance from the sound source) used in recording and other applications.  Rather than emphasizing the reverberation, this reverb is used to produce a sense of openness and depth. |
+|  | SPRING | This simulates the sound of a guitar amp’s built-in spring reverb. |
+|  | SHIMMER | Simulates reverberation with a distinctively sparkling high-frequency range. |
+|  | SUB DELAY | This is a delay with a maximum delay time of 2,000 ms. This effect is a useful way of adding depth to the sound. |
+|  | TERA ECHO | This effect uses MDP technology to create a unique ambience and a spaciousness that changes according to your picking dynamics. |
 
 ## Additional information
 

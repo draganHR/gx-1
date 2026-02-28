@@ -6,9 +6,9 @@ This adjusts the tone of the OUTPUT regardless of the equalizer on/off settings 
 
 | Parameter | Value | Explanation |
 | --- | --- | --- |
-| SET | Selects the GLOBAL EQ setting. | |
-| OFF | Turns GLOBAL EQ off. |
-| SET1–SET3 | Switches between settings 1–3. |
+| SET | Selects the GLOBAL EQ setting. |  |
+|  | OFF | Turns GLOBAL EQ off. |
+|  | SET1–SET3 | Switches between settings 1–3. |
 | LOW GAIN | -20–+20 dB | Adjusts the low frequency range tone. |
 | HIGH GAIN | -20–+20 dB | Adjusts the high frequency range tone. |
 | MID FREQ | 20.0 Hz–12.5 kHz | Specifies the center of the frequency range that will be adjusted by the MID GAIN. |
